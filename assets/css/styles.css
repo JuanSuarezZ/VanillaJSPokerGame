@@ -1,0 +1,22 @@
+html,
+body {
+    margin: 0px;
+    background-color: rgb(88, 162, 82);
+    color: white;
+}
+
+.header {
+    text-align: center;
+    background-color: black;
+}
+
+.btn-aux {
+    background-color: rgb(88, 162, 82);
+}
+
+.carta {
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin-left: -50px;
+}
